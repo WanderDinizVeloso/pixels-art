@@ -49,12 +49,6 @@ O currículo da Trybe foi desenhado em parceria com as maiores empresas de tecno
 
 ---
 
-## O que deverá ser desenvolvido
-
-- Você irá implementar uma página web que contém uma paleta de cores funcional que poderá ser utilizada para criar desenhos em pixels. Para isto você irá utilizar `javascript`, `css` e `html`.
-
----
-
 ## Requisitos do projeto
 
 ### 1 - Adicione à página o título "Paleta de Cores".
